@@ -32,11 +32,11 @@ I have not implemented this due to the time constraint, but have added here to d
 
 ### Sequence Diagram:
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/aishkou/Credit-Card-Processor/master/seqDiagram1.png)
 
 ### RestAPI Details
 
-![alt text]()
+![alt text](https://raw.githubusercontent.com/aishkou/Credit-Card-Processor/master/RestAPISwagger.PNG)
 
 ### RestAPI Status Codes
 
@@ -69,5 +69,8 @@ $ mvn surefire-report:report-only
 $ mvn site -DgenerateReports=false
 ```
 
+### Test Summary
+![alt text](https://raw.githubusercontent.com/aishkou/Credit-Card-Processor/master/SurefireReport1.PNG)
+
 ### Test Cases
-![alt text]()
+![alt text](https://raw.githubusercontent.com/aishkou/Credit-Card-Processor/master/SurefireReport2.PNG)
