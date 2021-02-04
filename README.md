@@ -16,7 +16,7 @@ The following technology stack has been used in line with the requirements outli
   - SpringFox UI
   - Junit
   - SureFire Reports
-  - Maven 3.0
+  - Maven 3.6.3
 
 ### Validation
 
@@ -56,7 +56,7 @@ http://localhost:8080/ccp/swagger-ui.html#/
 This application is built using maven and all dependencies will be added automatically.
 
 ```sh
-$ cd CreditCardProcessor
+$ cd Credit-Card-Processor
 $ mvn clean
 $ mvn clean spring-boot:run
 ```
