@@ -68,6 +68,8 @@ $ mvn test
 $ mvn surefire-report:report-only
 $ mvn site -DgenerateReports=false
 ```
+### H2 Database Settings
+![alt text](https://raw.githubusercontent.com/aishkou/Credit-Card-Processor/master/h2-db.PNG)
 
 ### Test Summary
 ![alt text](https://raw.githubusercontent.com/aishkou/Credit-Card-Processor/master/SurefireReport1.PNG)
